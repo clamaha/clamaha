@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Salesforce Certified Associate Credential](https://www.salesforce.com/trailblazer/claramahaux)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **WordPress**
 
 - 📄 Know about my experiences on [LinkedIn](www.linkedin.com/in/clara-mahaux)
 
